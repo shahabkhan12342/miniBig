@@ -1,0 +1,22 @@
+.navbar-custom{
+    background-color: black;
+    
+  }
+  
+  li{
+   margin-left: 20px;  
+  }
+  .b1{
+    margin: 30px;
+    color:blue;
+    background-color: black;
+    font-size: large;
+  }
+  .footer{
+    background-color: black;
+    margin-top: 90px;
+  }
+  
+.h{
+  color:white;
+}
